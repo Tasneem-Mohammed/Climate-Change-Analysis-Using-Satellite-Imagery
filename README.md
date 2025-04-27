@@ -5,11 +5,11 @@ Forecast temperature changes across **Africa, South America, Europe, and Asia** 
 ![download](https://github.com/user-attachments/assets/bf285242-6f0a-4e85-a7aa-6a15830c2293)
 
 ## Features
-- 🌍 Multi-continent analysis using Google Earth Engine data
-- ⏳ 40+ years of ERA5 daily temperature data (1979-2020)
-- 🤖 Three deep learning architectures compared (TCN, RNN, GRU)
-- 🔥 Best model achieved 0.0000654 MSE on test data
-- 📊 Interactive visualizations of predictions vs actuals
+- Multi-continent analysis using Google Earth Engine data
+- 40+ years of ERA5 daily temperature data (1979-2020)
+- Three deep learning architectures compared (TCN, RNN, GRU)
+- Best model achieved 0.0000654 MSE on test data
+- Interactive visualizations of predictions vs actuals
 
 ## Results Summary
 Model | Training MSE | Test MSE (South America)
